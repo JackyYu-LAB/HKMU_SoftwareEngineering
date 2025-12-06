@@ -1,4 +1,5 @@
 # HKMU_SoftwareEngineering Group 37
+
 Team Leader
 Yu Ming Chun            (s1391410@live.hkmu.edu.hk)
 
@@ -19,7 +20,9 @@ Member Name:
 
 -----------------------------------------------------------------------------
 Food Ordering App (iOS)
+
 A complete food delivery application developed using SwiftUI + Firebase.
+
 -----------------------------------------------------------------------------
 
 Features
@@ -32,6 +35,7 @@ Add to cart and checkout
 Admin backend: Add/edit/delete restaurants and menus
 
 Order tracking
+
 -----------------------------------------------------------------------------
 
 Technical Architecture
@@ -40,6 +44,7 @@ SwiftUI
 Firebase Firestore
 
 Firebase Authentication
+
 -----------------------------------------------------------------------------
 How to Run:
 
